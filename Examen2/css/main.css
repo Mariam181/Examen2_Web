@@ -40,4 +40,21 @@
   font-size: 13px;
   color: #aeadae; }
 
+.fila1 img {
+  display: block; }
+
+.img1 {
+  float: left;
+  margin: 0; }
+
+.img2 {
+  float: left;
+  margin: 0; }
+
+.img3 {
+  float: left; }
+
+.img4 {
+  float: left; }
+
 /*# sourceMappingURL=main.css.map */
