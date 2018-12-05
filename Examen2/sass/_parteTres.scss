@@ -1,0 +1,42 @@
+.bg-gris {
+    background-color: #f2fbfb;
+}
+
+.tel {
+    text-align: center;
+}
+
+.texto2 {
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    padding-top: 90px;
+}
+
+.texto2 p {
+    font-size: 13px;
+    color: #aeadae;
+}
+
+.texto2 h2 {
+    font-size: 60px;
+}
+
+.redes {
+    width: 32%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 190px;
+}
+
+.redes ul li {
+    float: left;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.redes ul li + li {
+    margin-left: 110px;
+}
