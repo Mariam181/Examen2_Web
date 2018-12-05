@@ -57,6 +57,24 @@
 .img4 {
   float: left; }
 
+.img1 img {
+  width: 100%; }
+
+.img2 img {
+  width: 100%; }
+
+.img3 img {
+  width: 100%; }
+
+.img4 img {
+  width: 100%; }
+
+.img4 img {
+  display: block; }
+
+.img3 img {
+  display: block; }
+
 .bg-gris {
   background-color: #f2fbfb; }
 
@@ -92,6 +110,25 @@
 .redes ul li + li {
   margin-left: 110px; }
 
+@media only screen and (max-width: 992px) {
+  .redes {
+    width: 60%;
+    margin: 0 auto; }
+
+  .img1 img {
+    width: 100%; }
+
+  .img2 img {
+    width: 100%; }
+
+  .img3 img {
+    width: 100%; }
+
+  .img4 img {
+    width: 100%; }
+
+  .icono1 {
+    text-align: center; } }
 @media only screen and (max-width: 768px) {
   .texto1 {
     width: 95%;
@@ -100,10 +137,34 @@
   .icono1 {
     width: 5%; }
 
-  .img1 {
-    width: 100%; }
-
   .redes {
     width: 77%; } }
+@media only screen and (max-width: 576px) {
+  .texto1 h1 {
+    font-size: 135px; }
+
+  .texto1 {
+    width: 90%; }
+
+  .img1 img {
+    width: 100%; }
+
+  .img2 img {
+    width: 100%; }
+
+  .img3 img {
+    width: 100%; }
+
+  .img4 img {
+    width: 100%; }
+
+  .container {
+    width: 100%; }
+
+  .logo {
+    width: 90%; }
+
+  .texto2 h2 {
+    font-size: 40px; } }
 
 /*# sourceMappingURL=main.css.map */
